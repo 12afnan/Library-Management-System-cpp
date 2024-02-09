@@ -1,0 +1,5 @@
+﻿  Library.cpp
+C:\Users\afnan\source\repos\DSA Project\Library.cpp(130,38): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\afnan\source\repos\DSA Project\Library.cpp(168,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\afnan\source\repos\DSA Project\Library.cpp(208,58): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  DSA Project.vcxproj -> C:\Users\afnan\source\repos\DSA Project\x64\Debug\DSA Project.exe
